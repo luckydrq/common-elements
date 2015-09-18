@@ -1,4 +1,6 @@
 # common-elements
+![](https://travis-ci.org/luckydrq/common-elements.svg)
+
 Find common elements in multiple arrays
 
 ## Example
